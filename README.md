@@ -7,9 +7,9 @@ Repositorio referente aos entregaveis do programa devstart da beacademy do modul
 - git init  
  Inicia o projeto.
 - git status
- mostra o status do seu git como arquivos a serem comitados e adicionados.
+  mostra o status do seu git como arquivos a serem comitados e adicionados.
 - git add .
- adiciona todos os arquivos para serem comitados.
+  adiciona todos os arquivos para serem comitados.
 - git commit -m "mensagem"
  realiza o commit com uma mensagem sobre o commit.
 - git push 
